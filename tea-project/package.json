@@ -1,0 +1,9 @@
+{
+  "name": "@nampham1508/tea-testnet-1508",
+  "version": "1.0.0",
+  "description": "Quest for tea-testnet",
+  "main": "index.js",
+  "author": "@nampham1508",
+  "repository": "https://github.com/nampham1508/tea-testnet-1508.git",
+  "license": "ISC"
+}
